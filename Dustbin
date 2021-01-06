@@ -1,0 +1,9 @@
+class Dustbin{
+    constructor(x,y){
+        var options ={
+            friction:1.5,
+            density:1.4,
+      }
+      
+    }
+}
